@@ -1,0 +1,10 @@
+{
+  "name": "vue-fieldsafe",
+  "version": "1.0.0",
+  "description": "A FieldSafe abstraction for Vue",
+  "main": "src/index.js", 
+  "repository": "git@github.com:ianpatricck/vue-fieldsafe.git",
+  "author": "ianpatrick <contatoianpatrick@gmail.com>",
+  "license": "MIT",
+  "private": "no"
+}
