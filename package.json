@@ -6,5 +6,5 @@
   "repository": "git@github.com:ianpatricck/vue-fieldsafe.git",
   "author": "ianpatrick <contatoianpatrick@gmail.com>",
   "license": "MIT",
-  "private": "no"
+  "private": false
 }
